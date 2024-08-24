@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to my personal repository where you will find interesting things ⛱️!
+
 <!--
 **IotyRandri/IotyRandri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
